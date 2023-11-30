@@ -11,7 +11,9 @@ php 8.0+
 ## Installation
 
 ```shell
-composer require dongasai/sdk-php
+
+composer require dongasai/apitable_phpsdk
+
 ```
 
 ## Get api_token
