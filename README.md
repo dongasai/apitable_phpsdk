@@ -5,6 +5,7 @@
 # APITable PHP SDK
 
 [apitable(apitable.com)](https://apitable.com) The PHP SDK, giving you the ability to extend your datasheet with ease.  
+
 [![Mit License](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.mit-license.org/)
 
 ## Environment
@@ -14,7 +15,7 @@ php 7.0+
 ## Installation
 
 ```shell
-composer require apitable/sdk-php
+composer require dongasai/sdk-php
 ```
 
 ## Get api_token

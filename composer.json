@@ -1,5 +1,5 @@
 {
-  "name": "apitable/apitable-sdk-php",
+  "name": "dongasai/apitable_phpsdk",
   "description": "ApiTable php SDK",
   "license": "MIT",
   "type": "library",
