@@ -9,7 +9,7 @@
     "php-sdk"
   ],
   "require": {
-    "php": ">=7.0"
+    "php": ">=8.0"
   },
   "autoload": {
     "classmap": [

@@ -1,7 +1,3 @@
-# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
-
----
-
 # APITable PHP SDK
 
 [apitable(apitable.com)](https://apitable.com) The PHP SDK, giving you the ability to extend your datasheet with ease.  
@@ -10,7 +6,7 @@
 
 ## Environment
 
-php 7.0+
+php 8.0+
 
 ## Installation
 
